@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qdt62FDN2pc5tNBDNbzrGQ/IkydA5UHrvua0AQs1ha1O4UigzQ0tZH6FPr2bn7GsWDtHSEpYJP3YqcmVIwZntg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ahmadd60\\Downloads\\Lab4\\Lab4\\Lab4\\Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmadd60\\.nuget\\packages\\communitytoolkit.mvvm\\8.0.0\\communitytoolkit.mvvm.8.0.0.nupkg.sha512",
+    "C:\\Users\\ahmadd60\\.nuget\\packages\\npgsql\\6.0.7\\npgsql.6.0.7.nupkg.sha512",
+    "C:\\Users\\ahmadd60\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
